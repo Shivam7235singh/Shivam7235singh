@@ -15,11 +15,11 @@
 
 <p align="left">
   <img height="180" align="right" style="margin-top: 40px;" src="https://github.com/shivamverma26/shivamverma26/blob/main/img/code.gif" />
-- 🌱 Currently learning **JavaScript, React, and MERN stack**.<br>
-- 💬 Ask me about **Data Structures and Algorithms (DSA)**.<br>
-- 🎯 **Goal:** Striving to improve by 1% every day.<br>
-- ⚡ **Fun Fact:** My GitHub codes = 40% Me + 30% StackOverflow + 20% Google + 10% ChatGPT.<br>
-- 📫 How to reach me **shivam31473@gmail.com**.<br>
+- 🌱 Currently learning  JavaScript, React, and MERN Stack.<br>
+- 💬 Ask me about Data Structures and Algorithms (DSA).<br>
+- 🎯 Goal: Striving to improve by 1% every day.<br>
+- ⚡ Fun Fact: My GitHub codes = 40% Me + 30% StackOverflow + 20% Google + 10% ChatGPT.<br>
+- 📫 How to reach me  shivam31473@gmail.com.<br>
 
 </p>
 
