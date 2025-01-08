@@ -83,10 +83,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shivam7235singh&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=5&theme=vue-dark&hide_border=true" height="170" alt="Languages graph" />
 </div>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shivam7235singh&theme=dark&hide_border=true" alt="Shivam7235singh's streak stats"/>
+</p>
 
- <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivam7235singh&" alt="shivam7235singh" /></p>
-</div>
+
 
 
 
