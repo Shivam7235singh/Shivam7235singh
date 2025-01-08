@@ -1,36 +1,110 @@
-<img align="right" alt="Coding" src="https://raw.githubusercontent.com/anikakash/anikakash/main/assets/focus-animation.gif?raw=true">
-<h1 align="center">Hi 👋, I'm Shivam Kumar Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<div align="center">
+  <img height="450" src="https://github.com/shivamverma26/shivamverma26/blob/main/img/anim.gif" />
+</div>
 
-<p align="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" /> </p>
+<div align="center">
+  <h1 align="center">Hey there 👋</h1>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivam7235singh" alt="shivam7235singh" /></a> </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=600&lines=I'm+Shivam+Kumar+Singh;MERN+Stack+Developer;Always+Learning+and+Improving)](https://git.io/typing-svg)
 
-<p align="left"> <a href="https://twitter.com/shivams68142899" target="blank"><img src="https://img.shields.io/twitter/follow/shivams68142899?logo=twitter&style=for-the-badge" alt="shivams68142899" /></a> </p>
 
-- 🌱 I’m currently learning **javaScript , react, MERN **
+---
 
-- 💬 Ask me about **DSA problem**
+<h2 align="left">👨‍💻 About Me</h2>
 
-- 📫 How to reach me **shivam31473@gmail.com**
-
-- ⚡ Fun fact **My GitHub codes = 40% Me + 30% StackOverflow + 10% Google + 20% ChatGPT**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shivams68142899" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivams68142899" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shivam-singh-1ba7b7211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivam-singh-1ba7b7211/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/__shivam_rajput__41/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/__shivam_rajput__41/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/shivam31473" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/shivam31473" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/shivam31473" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/shivam31473" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/shivam31473/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/shivam31473/" height="30" width="40" /></a>
+  <img height="180" align="right" style="margin-top: 40px;" src="https://github.com/shivamverma26/shivamverma26/blob/main/img/code.gif" />
+- 🌱 Currently learning **JavaScript, React, and MERN stack**.<br>
+- 💬 Ask me about **Data Structures and Algorithms (DSA)**.<br>
+- 🎯 **Goal:** Striving to improve by 1% every day.<br>
+- ⚡ **Fun Fact:** My GitHub codes = 40% Me + 30% StackOverflow + 20% Google + 10% ChatGPT.<br>
+- 📫 How to reach me **shivam31473@gmail.com**.<br>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam7235singh&show_icons=true&locale=en&layout=compact" alt="shivam7235singh" /></p>
+<h2 align="left">💻 I Code With</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivam7235singh&show_icons=true&locale=en" alt="shivam7235singh" /></p>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="C logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring logo" />
+  <img src="https://cdn.simpleicons.org/hibernate/59666C" height="40" alt="Hibernate logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="Tailwind CSS logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript logo" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="Postman logo" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="Docker logo" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS logo" />
+  <img src="https://cdn.simpleicons.org/eclipseide/2C2255" height="40" alt="Eclipse logo" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git logo" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub logo" />
+  <img src="https://cdn.simpleicons.org/gitlab/FC6D26" height="40" alt="GitLab logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" alt="Heroku logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ logo" />
+  <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="Netlify logo" />
+</div>
 
+---
+
+<h2 align="left">🌐 Connect with Me</h2>
+
+<div align="left">
+  <a href="https://linkedin.com/in/shivam-singh-1ba7b7211/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="30" alt="LinkedIn logo" />
+  </a>
+  <a href="https://twitter.com/shivams68142899" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="50" height="30" alt="Twitter logo" />
+  </a>
+  <a href="mailto:verma.shivam31473@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="30" alt="Gmail logo" />
+  </a>
+   <a href="https://instagram.com/__shivam_rajput__41" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
+  </a>
+  <a href="https://leetcode.com/shivam31473/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/>
+  </a>
+</div>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shivam7235singh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true" height="170" alt="Stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shivam7235singh&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=5&theme=vue-dark&hide_border=true" height="170" alt="Languages graph" />
+</div>
+
+
+ <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivam7235singh&" alt="shivam7235singh" /></p>
+</div>
+
+
+
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=Shivam7235singh&theme=dracula&column=-1&row=2&margin-w=10&margin-h=0&no-bg=true&no-frame=true" height="150" alt="Trophy graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivam7235singh&radius=16&theme=react&area=true&hide_border=true" height="300" alt="Activity graph" />
+</div>
+
+---
+
+<div align="center">
+  <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+</div>
+
+---
+
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Shivam7235singh.Shivam7235singh&left_color=chocolate&right_color=dimgray" />
