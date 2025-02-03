@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="450" src="https://github.com/shivamverma26/shivamverma26/blob/main/img/anim.gif" />
+  <img height="450" src="https://github.com/Shivam7235singh/Shivam7235singh/blob/main/image/anim.gif" />
 </div>
 
 <div align="center">
@@ -14,7 +14,7 @@
 <h2 align="left">👨‍💻 About Me</h2>
 
 <p align="left">
-  <img height="180" align="right" style="margin-top: 40px;" src="https://github.com/shivamverma26/shivamverma26/blob/main/img/code.gif" />
+  <img height="180" align="right" style="margin-top: 40px;" src="https://github.com/Shivam7235singh/Shivam7235singh/blob/main/image/code.gif" />
 - 🌱 Currently learning  JavaScript, React, and MERN Stack.<br>
 - 💬 Ask me about Data Structures and Algorithms (DSA).<br>
 - 🎯 Goal: Striving to improve by 1% every day.<br>
